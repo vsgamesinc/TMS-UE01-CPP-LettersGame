@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Temps
+.vs
+x64
